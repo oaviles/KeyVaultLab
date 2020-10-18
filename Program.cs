@@ -2,7 +2,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 
-namespace KeyVaultDemoApp2
+namespace KeyVaultDemoApp
 {
     public class Program
     {
